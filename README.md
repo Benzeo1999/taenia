@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 ปัญญาประดิษฐ์ตรวจหาไข่พยาธื Taenia spp.
 
 A simple Streamlit app template for you to modify!
 
